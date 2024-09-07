@@ -5,16 +5,19 @@ Requires an email for sending and recieveing as well as a google web app passwor
 
 ## Demonstration with diguise
 
+### Creating executable
 Using pyinstaller you can turn the script into an executable with the command **pyinstaller --onefile --noconsole keylog.py**. 
 
 Adding "--noconsole" make the process run in the background so that it is less conspicuous. Otherwise the console would pop up when opened.
 
+### Hiding with WinRAR
 When trying to find ways to disguise executables I found [this one that uses winrar](https://www.youtube.com/watch?v=9QF3SS60rJ4) to disguise it by packaging it with another file, I used a jpg of a cat 😼. This could work with other files too if named accordingly and using an icon that makes sense.
 
 In the self extracting options make the image open and also run the malicous file.
 
 ![compres](https://github.com/user-attachments/assets/c65f7525-3cb0-41dd-a27a-127593b0aab2)
 
+### Running the file
 Now when the victim sees the file, if they are not paying close attention, it will seems like an ordinary image.
 
 ![hiddencat](https://github.com/user-attachments/assets/48680769-2858-480e-8b96-f431e2fa6587)
