@@ -17,7 +17,7 @@ In the self extracting options make the image open and also run the malicous fil
 
 ![compres](https://github.com/user-attachments/assets/c65f7525-3cb0-41dd-a27a-127593b0aab2)
 
-### Running the file
+### Downloaded example
 Now when the victim sees the file, if they are not paying close attention, it will seems like an ordinary image.
 
 ![hiddencat](https://github.com/user-attachments/assets/48680769-2858-480e-8b96-f431e2fa6587)
